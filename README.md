@@ -2,7 +2,7 @@
 ## Some hea
 ### ders
 Works connected with the computer linguistics course<br>
-Firstly, **format***ing*<br>
+Firstly, **f***o***r***m***a***t***i***n***g**<br>
 Secondly,<br>
 * some
 * list
