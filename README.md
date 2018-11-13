@@ -1,7 +1,7 @@
 # computer_ling
 ## Some hea
 ### ders
-<font style="color:red">Works connected with the computer linguistics course</font><br>
+<font style="text-color:red">Works connected with the computer linguistics course</font><br>
 Firstly, **formating** or not *formating*<br>
 Secondly,<br>
 * some
