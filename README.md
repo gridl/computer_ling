@@ -20,8 +20,8 @@ Thridly, image
 - Alive
 ```
 <br>
-| AAAA | BBBB | CCCC |
-| ---- | ---- | ---- |
-| 4 00 | 4 70 | 6 00 |
-| COST | EATH |  SS  |
-| COST | EATH |  SS  |
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
