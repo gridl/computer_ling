@@ -20,3 +20,7 @@ Thridly, image
 - Alive
 ```
 <br>
+| AAAA | BBBB | CCCC |
+|:----:|:----:|:----:|
+|$4 000|$4 700|$6 000|
+| COST |DEATH |  SS  |
