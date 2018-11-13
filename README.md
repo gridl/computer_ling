@@ -1,9 +1,9 @@
 # computer_ling
 ## Some hea
 ### ders
-Works connected with the computer linguistics course
-Firstly, **forma***ing*
-Secondly,
+Works connected with the computer linguistics course<br>
+Firstly, **forma***ing*<br>
+Secondly,<br>
 * some
 * list
 * nodes
