@@ -24,3 +24,4 @@ Thridly, image
 | ---- | ----:|:----:|
 |$4 000|$4 700|$6 000|
 | COST |DEATH |  SS  |
+| COST |DEATH |  SS  |
