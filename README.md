@@ -22,6 +22,6 @@ Thridly, image
 <br>
 | AAAA | BBBB | CCCC |
 | ---- | ----:|:----:|
-|$4 000|$4 700|$6 000|
-| COST |DEATH |  SS  |
-| COST |DEATH |  SS  |
+| 4 00 | 4 70 | 6 00 |
+| COST | EATH |  SS  |
+| COST | EATH |  SS  |
