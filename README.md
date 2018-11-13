@@ -15,8 +15,7 @@ Thridly, image
 2b | ! 2b
 <br>
 
-```
-diff
+```diff
 + Die
 - Alive
 ```
