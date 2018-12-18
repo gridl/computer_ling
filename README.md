@@ -1,3 +1,5 @@
+
+
 # computer_ling
 ## Some hea
 ### ders
@@ -20,8 +22,9 @@ Thridly, image
 - Alive
 ```
 <br>
-| Tables     | Are             | Cool    |
-| ---------- | :-------------: | ------: |
-| col 1 is   | left-aligned    | $1600   |
-| col 2 is   | centered        | $12     |
-| col 3 is   | right-aligned   | $1      |
+
+| Tables | Are | Cool |
+| ---------- |:-------------:| ------:|
+| col | leftaligned s | 1600 s |
+| col | centered    s | 12   s |
+| col 3 is s | rightaligneds | 1    s |
